@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @ShamrouzAwanAwan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java script and Python
-- 📫 Here is how to reach me https://facebook.com/shamrouz.awan.awan
+- 📫 Here is how to reach me https://facebook.com/ShamrouzAwan.awan
 - 📫 Here is my personal Email shamrouzawana@gmail.com
 - 📫 Here is my very first real world portfolio website https://bit.ly/shamrouzawan
 ## Please check that out
