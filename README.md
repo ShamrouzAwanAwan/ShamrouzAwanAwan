@@ -1,13 +1,21 @@
-# Assalam O Alaikum!
+### Assalam O Alaikum! 👋
 
-- 👋 Hi, I’m @ShamrouzAwanAwan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java script and Python
-- 📫 Here is how to reach me https://facebook.com/ShamrouzAwan.awan
-- 📫 Here is my personal Email shamrouzawana@gmail.com
-- 📫 Here is my very first real world portfolio website https://bit.ly/shamrouzawan
-## Please check that out
-<!---
-ShamrouzAwanAwan/ShamrouzAwanAwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Shamrouz Awan, a passionate Web Developer and Software Engineering student in my 3rd semester at Khawaja Fareed University, Rahim Yar Khan. My journey in the world of code and design is fueled by a relentless curiosity and an unquenchable thirst for knowledge.
+
+#### 💻 My Interests
+- Web Development
+- UI/UX Design
+- Graphics Design
+
+#### 🌱 Currently Learning
+- JavaScript
+- Python
+- WordPress
+
+#### 📫 How to Reach Me
+- Facebook: [Shamrouz Awan](https://facebook.com/me)
+- Email: shamrouzawan@gmail.com
+- Instagram: [@shamrouz.awan](https://instagram.com/shamrouz.awan)
+
+#### 🌟 My Portfolio
+You can explore my very first real-world portfolio website at [shamrouzawan.com](https://shamrouzawan.com). Feel free to check it out, and let's connect and collaborate on exciting projects! 😄
